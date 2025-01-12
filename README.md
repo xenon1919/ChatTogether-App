@@ -31,18 +31,6 @@ Before you begin, ensure you have met the following requirements:
 - A GetStream.io account for messaging
 - An ngrok account for tunneling
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
-    ```
-
-2. Install the dependencies:
-    ```bash
-    npm install
-    ```
 
 ## Usage
 
